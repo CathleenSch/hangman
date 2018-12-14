@@ -1,0 +1,11 @@
+C:\Users\casch\Documents\Work\Hangman\bin\Debug\netcoreapp2.2\Hangman.deps.json
+C:\Users\casch\Documents\Work\Hangman\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.json
+C:\Users\casch\Documents\Work\Hangman\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.dev.json
+C:\Users\casch\Documents\Work\Hangman\bin\Debug\netcoreapp2.2\Hangman.dll
+C:\Users\casch\Documents\Work\Hangman\bin\Debug\netcoreapp2.2\Hangman.pdb
+C:\Users\casch\Documents\Work\Hangman\obj\Debug\netcoreapp2.2\Hangman.csprojAssemblyReference.cache
+C:\Users\casch\Documents\Work\Hangman\obj\Debug\netcoreapp2.2\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\casch\Documents\Work\Hangman\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfoInputs.cache
+C:\Users\casch\Documents\Work\Hangman\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfo.cs
+C:\Users\casch\Documents\Work\Hangman\obj\Debug\netcoreapp2.2\Hangman.dll
+C:\Users\casch\Documents\Work\Hangman\obj\Debug\netcoreapp2.2\Hangman.pdb
